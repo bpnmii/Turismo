@@ -1,0 +1,47 @@
+#red {
+    color: #E1624F;
+    margin-left: 400px;
+}
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    color: #1B1B1B;
+    margin-left: 400px;
+}
+
+.oi{
+    margin-left: 400px;
+    color: #333333;
+}
+
+
+li{
+    margin-left: 400px;
+}
+
+footer{
+    text-align: center;
+    color: #333333;
+}
+
+#normal{
+    margin-left: 400px;
+    font-weight: bold;
+}
+#azul{
+    color: blue;
+}
+#roxo{
+    color: purple;
+}
+#rosa{
+    color: rgb(233, 79, 105);
+}
+#laranja{
+    color: orange;
+}
